@@ -1,4 +1,4 @@
-# 👋 Hi there! Welcome to my GitHub profile!
+# 👋 Hi there! Welcome to Vinh's GitHub profile!
 
 ![Header](https://img.shields.io/badge/-Aspiring%20Data%20Analyst-4682B4?style=flat-square&logo=data:image/svg+xml;base64...)
 
@@ -42,19 +42,19 @@ Here are the key tools and technologies I specialize in:
 
 ## 📫 How to Reach Me
 Feel free to connect with me via:
-- 📧 **Email**: [your-email@example.com](mailto:your-email@example.com)  
+- 📧 **Email**: [legiatienvinh@gmail.com](mailto:legiatienvinh@gmail.com)  
 - 💼 **LinkedIn**: [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)  
 - 🌐 **Portfolio**: [your-portfolio-link.com](https://your-portfolio-link.com)
 
 ---
 
 ## 🎯 Fun Fact
-- 🎸 I love playing the guitar in my free time.
+- 🎸 I am a big fan of Manchester United
 - 🌏 I'm a fan of exploring different cultures and cuisines.
 - 📚 "Learning never exhausts the mind" - Leonardo da Vinci. This quote inspires my continuous learning journey.
 
 ---
 
 ### 🔗 Footer
-> 🌟 Thank you for visiting my GitHub profile. Let's build something amazing together!
+> 🌟 Thank you for visiting my GitHub profile. Let's see something amazing together!
 
