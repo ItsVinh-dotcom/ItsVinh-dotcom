@@ -11,22 +11,6 @@ Hi, I'm **Le Gia Tien Vinh**, a passionate individual born in **2004** with a st
 
 ---
 
-## 📂 My Portfolio Projects
-Here are some of the projects I'm working on or have completed:
-
-- **📈 Sales Insights Dashboard**  
-  Built an interactive dashboard using **Tableau** to analyze sales trends and optimize decision-making.  
-  [View Project](#)  
-
-- **📊 Customer Segmentation Using K-Means Clustering**  
-  Applied machine learning algorithms to group customers based on purchasing behavior.  
-  [View Project](#)  
-
-- **📂 Data Cleaning with Python**  
-  Transformed messy datasets into clean, ready-to-analyze formats.  
-  [View Project](#)  
-
----
 
 ## 🛠️ Skills and Tools
 Here are the key tools and technologies I specialize in:
@@ -40,21 +24,9 @@ Here are the key tools and technologies I specialize in:
 
 ---
 
-## 📫 How to Reach Me
-Feel free to connect with me via:
-- 📧 **Email**: [legiatienvinh@gmail.com](mailto:legiatienvinh@gmail.com)  
-- 💼 **LinkedIn**: [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)  
-- 🌐 **Portfolio**: [your-portfolio-link.com](https://your-portfolio-link.com)
-
----
-
 ## 🎯 Fun Fact
 - 🎸 I am a big fan of Manchester United
 - 🌏 I'm a fan of exploring different cultures and cuisines.
 - 📚 "Learning never exhausts the mind" - Leonardo da Vinci. This quote inspires my continuous learning journey.
 
 ---
-
-### 🔗 Footer
-> 🌟 Thank you for visiting my GitHub profile. Let's see something amazing together!
-
