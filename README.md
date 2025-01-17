@@ -18,8 +18,7 @@ Here are the key tools and technologies I specialize in:
 | **Category**         | **Skills**                     |
 |-----------------------|--------------------------------|
 | Data Analysis         | Python (Pandas, NumPy), SQL   |
-| Visualization         | Tableau, Power BI, Matplotlib |
-| Machine Learning      | Scikit-learn, TensorFlow      |
+| Visualization         | Tableau, Power BI, Python(Matplotlib) |
 | Soft Skills           | Problem-solving, Teamwork     |
 
 ---
