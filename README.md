@@ -1,6 +1,6 @@
 # 👋 Hi there! Welcome to Vinh's GitHub profile!
 
-![Header](https://img.shields.io/badge/-Aspiring%20Data%20Analyst-4682B4?style=flat-square&logo=data:image/svg+xml;base64...)
+![Header](https://img.shields.io/badge/-%20Data%20Analyst%20/%20Business%Intelligence-4682B4?style=flat-square&logo=data:image/svg+xml;base64...)
 
 ## 🚀 About Me
 Hi, I'm **Le Gia Tien Vinh**, a passionate individual born in **2004** with a strong aspiration to become a **Data Analyst**/ **Business Intelligence** in the near future. My journey into the world of **data analytics** is driven by a curiosity to uncover insights and create meaningful impact through data.
